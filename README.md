@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 
 A simple recipe website built as part of [The Odin Project](https://www.theodinproject.com/) curriculum. This project is designed to practice basic HTML skills by creating a multi-page site featuring your favorite recipes.
 
